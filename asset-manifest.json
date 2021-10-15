@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amit-app/static/css/main.c3f83934.chunk.css",
+    "main.js": "/amit-app/static/js/main.1cf1e997.chunk.js",
+    "main.js.map": "/amit-app/static/js/main.1cf1e997.chunk.js.map",
+    "runtime-main.js": "/amit-app/static/js/runtime-main.06cd02af.js",
+    "runtime-main.js.map": "/amit-app/static/js/runtime-main.06cd02af.js.map",
+    "static/js/2.335947ef.chunk.js": "/amit-app/static/js/2.335947ef.chunk.js",
+    "static/js/2.335947ef.chunk.js.map": "/amit-app/static/js/2.335947ef.chunk.js.map",
+    "index.html": "/amit-app/index.html",
+    "static/css/main.c3f83934.chunk.css.map": "/amit-app/static/css/main.c3f83934.chunk.css.map",
+    "static/js/2.335947ef.chunk.js.LICENSE.txt": "/amit-app/static/js/2.335947ef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/amit-app/static/media/background.d20e8779.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06cd02af.js",
+    "static/js/2.335947ef.chunk.js",
+    "static/css/main.c3f83934.chunk.css",
+    "static/js/main.1cf1e997.chunk.js"
+  ]
+}
